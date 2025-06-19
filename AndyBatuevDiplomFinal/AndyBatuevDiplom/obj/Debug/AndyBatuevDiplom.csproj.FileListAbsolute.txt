@@ -1,0 +1,13 @@
+c:\users\andy\documents\visual studio 2017\Projects\AndyBatuevDiplom\AndyBatuevDiplom\bin\Debug\AndyBatuevDiplom.exe.config
+c:\users\andy\documents\visual studio 2017\Projects\AndyBatuevDiplom\AndyBatuevDiplom\bin\Debug\AndyBatuevDiplom.exe
+c:\users\andy\documents\visual studio 2017\Projects\AndyBatuevDiplom\AndyBatuevDiplom\bin\Debug\AndyBatuevDiplom.pdb
+c:\users\andy\documents\visual studio 2017\Projects\AndyBatuevDiplom\AndyBatuevDiplom\obj\Debug\AndyBatuevDiplom.Form1.resources
+c:\users\andy\documents\visual studio 2017\Projects\AndyBatuevDiplom\AndyBatuevDiplom\obj\Debug\AndyBatuevDiplom.Form2.resources
+c:\users\andy\documents\visual studio 2017\Projects\AndyBatuevDiplom\AndyBatuevDiplom\obj\Debug\AndyBatuevDiplom.Properties.Resources.resources
+c:\users\andy\documents\visual studio 2017\Projects\AndyBatuevDiplom\AndyBatuevDiplom\obj\Debug\AndyBatuevDiplom.csproj.GenerateResource.Cache
+c:\users\andy\documents\visual studio 2017\Projects\AndyBatuevDiplom\AndyBatuevDiplom\obj\Debug\AndyBatuevDiplom.exe
+c:\users\andy\documents\visual studio 2017\Projects\AndyBatuevDiplom\AndyBatuevDiplom\obj\Debug\AndyBatuevDiplom.pdb
+c:\users\andy\documents\visual studio 2017\Projects\AndyBatuevDiplom\AndyBatuevDiplom\obj\Debug\AndyBatuevDiplom.Zapis.resources
+C:\Users\andy\documents\visual studio 2017\Projects\AndyBatuevDiplom\AndyBatuevDiplom\obj\Debug\AndyBatuevDiplom.csprojAssemblyReference.cache
+C:\Users\andy\documents\visual studio 2017\Projects\AndyBatuevDiplom\AndyBatuevDiplom\obj\Debug\AndyBatuevDiplom.csproj.CoreCompileInputs.cache
+C:\Users\andy\documents\visual studio 2017\Projects\AndyBatuevDiplom\AndyBatuevDiplom\obj\Debug\AndyBatuevDiplom.HistoryForm.resources

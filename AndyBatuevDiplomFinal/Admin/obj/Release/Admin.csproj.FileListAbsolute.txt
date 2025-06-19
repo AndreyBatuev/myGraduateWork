@@ -1,0 +1,11 @@
+C:\Users\andy\documents\visual studio 2017\Projects\AndyBatuevDiplom\Admin\bin\Release\Admin.exe.config
+C:\Users\andy\documents\visual studio 2017\Projects\AndyBatuevDiplom\Admin\bin\Release\Admin.exe
+C:\Users\andy\documents\visual studio 2017\Projects\AndyBatuevDiplom\Admin\bin\Release\Admin.pdb
+C:\Users\andy\documents\visual studio 2017\Projects\AndyBatuevDiplom\Admin\obj\Release\Admin.AdminPanel.resources
+C:\Users\andy\documents\visual studio 2017\Projects\AndyBatuevDiplom\Admin\obj\Release\Admin.Emplo.resources
+C:\Users\andy\documents\visual studio 2017\Projects\AndyBatuevDiplom\Admin\obj\Release\Admin.Form1.resources
+C:\Users\andy\documents\visual studio 2017\Projects\AndyBatuevDiplom\Admin\obj\Release\Admin.Properties.Resources.resources
+C:\Users\andy\documents\visual studio 2017\Projects\AndyBatuevDiplom\Admin\obj\Release\Admin.csproj.GenerateResource.cache
+C:\Users\andy\documents\visual studio 2017\Projects\AndyBatuevDiplom\Admin\obj\Release\Admin.csproj.CoreCompileInputs.cache
+C:\Users\andy\documents\visual studio 2017\Projects\AndyBatuevDiplom\Admin\obj\Release\Admin.exe
+C:\Users\andy\documents\visual studio 2017\Projects\AndyBatuevDiplom\Admin\obj\Release\Admin.pdb
